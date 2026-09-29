@@ -28,7 +28,7 @@ To run any of the projects on your localhost machine, follow these steps:
 
 2. **Navigate into the specific project folder:**
    ```bash
-   cd ai-travel-landing-page
+   cd Bluify-landing-page
    ```
 
 3. **Install the dependencies:**
