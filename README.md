@@ -22,7 +22,7 @@ To run any of the projects on your localhost machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/murphys-law23/landing-pages
    cd landing-pages
    ```
 
